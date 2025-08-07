@@ -1,5 +1,25 @@
 h1{
     color: lightblue;
-    font-size:xx-large;
+    font-size: xx-large;
     text-align: center;
+}
+h3{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.experience{
+    display: flex;
+}
+.tech{
+    border: 1px solid black;
+    flex: 4;
+}
+.exp{
+    border: 1px solid black;
+    flex: 6;
+}
+.projects{
+    text-align: center;
+    color: lightgreen;
 }
